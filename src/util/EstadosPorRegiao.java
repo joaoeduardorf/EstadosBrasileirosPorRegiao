@@ -14,6 +14,7 @@ import java.util.List;
  *
  * @author João Eduardo Rosa da Fonseca
  */
+@Deprecated
 public class EstadosPorRegiao {
 
     /**
